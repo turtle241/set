@@ -1,0 +1,4 @@
+﻿  set.cpp
+C:\Users\uczen\source\repos\zbior\zbior\set.cpp(34,22): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\uczen\source\repos\zbior\zbior\set.cpp(41,1): warning C4715: "set::isEmpty”: niewszystkie ścieżki kodu zwracają wartość
+  zbior.vcxproj -> C:\Users\uczen\source\repos\zbior\x64\Debug\zbior.exe
